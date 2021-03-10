@@ -1,4 +1,4 @@
-test-project
+ZEND SAMPLE TEST    
 ============
 
-test project
+Zend sample test project
